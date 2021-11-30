@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Welcome to my GitHub 🚀 </h1>
 
-<p><i>Hey, I'm <b>Ricky Suhanry</b> 👋 - A grounded and solution-oriented 
+<p><i>Hey everyone, I'm <b>Ricky Suhanry</b> 👋 - A grounded and solution-oriented 
 freshgraduate student from Informatics Engineering major with a previous experience as a web developer.</i></p>
 
 - 🌱 I’m currently a self-taught learner about vuejs, nodejs, flask/django, spring boot, database (sql/no-sql), and cloud technology (AWS)
