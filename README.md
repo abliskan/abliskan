@@ -4,9 +4,10 @@
 freshgraduate student from Informatics Engineering major with a previous experience as a web developer.</i></p>
 
 - 🌱 I’m currently a self-taught learner about vuejs, nodejs, flask/django, spring boot, database (sql/no-sql), and cloud technology (AWS)
-- 🔭 I'm a Data Engineering, Cloud and Blockchain enthusiast
+- 🔭 I'm a Blockchain/Web3 enthusiast
 - 😄 Pronouns: he/his.
 - 📫 Reach me at epicgondar@gmail.com for general
 
 <!--
 **abliskan/abliskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
