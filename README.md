@@ -11,10 +11,10 @@ freshgraduate student from Informatics Engineering major with a previous experie
 - 🛠️ Love to use: Python, TypeScript (Vue), Java 
 - 💡 Next goal: Rust, Go (Comming Soon)
 - 🚀Other:
- > Databases: SQL, NoSQL, Snowflake, Google BigQuery, AWS Redshift
- > Data visualization: Google Looker Studio, Tableau, Streamlit
- > Data transformation: Pentaho, Dbt
- > Analytics: Pandas, Numpy, Seaborn, PySpark
+ > Databases: SQL, NoSQL, Snowflake, Google BigQuery, AWS Redshift <br>
+ > Data visualization: Google Looker Studio, Tableau, Streamlit <br>
+ > Data transformation: Pentaho, Dbt <br>
+ > Analytics: Pandas, Numpy, Seaborn, PySpark <br>
  > Orchestrator: Apache Airflow
 
 ## Get in Touch
